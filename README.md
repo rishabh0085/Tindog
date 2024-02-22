@@ -4,7 +4,9 @@ Tindog is a front-end project aimed at facilitating dog meetups where dog parent
 #Technology Used
 
 -HTML
+
 -CSS
+
 -Bootstrap
 
 #Usage

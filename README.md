@@ -1,8 +1,16 @@
 # Tindog
+Tindog is a front-end project aimed at facilitating dog meetups where dog parents can connect with each other to arrange meetings for their dogs.
 
-Tindog is a front-end-project. The prupose of this project is for Dog meet ups where dog parents conatct to each other for there Dog meetings if they want.
+#Technology Used
+HTML
+CSS
+Bootstrap
 
-Technology-Used : HTML, CSS, Bootstrap.
+#Usage
+To use Tindog, simply open the index.html file in your web browser. From there, you can navigate the website and explore its features for arranging dog meetups.
+
+#Acknowledgements
+Tindog was inspired by the need for a platform where dog owners could easily connect to organize meetups for their pets. Special thanks to Bootstrap for providing the framework to build this project.
 
 -Screen Shot of Tindog Front-End Design:
 
